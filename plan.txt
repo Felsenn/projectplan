@@ -6,3 +6,5 @@
 - Do implementations
 - Do testing
 - deployment
+- testing
+- sell project
