@@ -1,4 +1,5 @@
 - Do research
 - Read a book
+- conduct interview
 - Do requirements analysis
 - Do implementations
