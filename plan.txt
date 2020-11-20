@@ -4,5 +4,7 @@
 - Do requirements analysis
 - do use case analysis
 - Do implementations
+- Do testing
+- deployment
 - testing
 - sell project
